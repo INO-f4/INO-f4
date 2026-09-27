@@ -2,7 +2,8 @@
 
   
 # hI (￣ヘ￣)
-<img width="500" height="281" alt="494e31e151913bf42f6b9e8540e8bc44" src="https://github.com/user-attachments/assets/6e5ea3bc-6ff5-4000-9eeb-b42e27774c56" />
+<img width="640" height="360" alt="e2b040fad81a9b7a75c3ec2ba3b113fc" src="https://github.com/user-attachments/assets/35ae4b9b-c4f5-4669-aa1e-e32659e20482" />
+
 
 ## Languages :
 Python --  Lua -- Luau -- Glua
